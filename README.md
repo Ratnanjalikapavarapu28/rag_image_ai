@@ -18,10 +18,10 @@ An AI-powered Image Generation application that combines Retrieval-Augmented Gen
 * Generative AI Models
 * RAG (Retrieval-Augmented Generation)
 
-## 📂 Project Structure
 
 ## 📁 Project Structure
 
+```
 rag_image_ai/
 ├── app.py
 ├── requirements.txt
@@ -30,6 +30,7 @@ rag_image_ai/
 ├── data/
 ├── chroma_db/
 └── .gitignore
+```
 
 
 ## ⚙️ Installation
